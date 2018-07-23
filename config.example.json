@@ -4,7 +4,7 @@
     "channel": "ID of the log channel",
     "activity": "(aka playing status), can be whatever you want, null if you don't need one",
     "refreshInterval": 1,
-    "roleToMention": "the name of your role",
+    "roleToMention": "the ID of your role",
     "quiet": false
   },
   "domains": [
