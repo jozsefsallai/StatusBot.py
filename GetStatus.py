@@ -1,4 +1,4 @@
-import discord, requests
+import requests
 
 badStatus = []
 down = []
